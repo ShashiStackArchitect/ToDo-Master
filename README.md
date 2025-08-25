@@ -52,6 +52,12 @@ npm install
 npm start
 
 🔗 [Live Demo](https://todo-master-shashi.netlify.app)
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> d30454cd0379001cdaddeee4b69aac7ef4689326
 
 
 
